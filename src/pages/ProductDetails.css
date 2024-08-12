@@ -1,0 +1,21 @@
+.product-details-container {
+    padding: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .product-details-container h1 {
+    margin-bottom: 10px;
+  }
+  
+  .product-details-container p {
+    margin: 5px 0;
+  }
+  
+  .product-details-container a {
+    text-decoration: none;
+    color: #007bff;
+  }
+  
+  .product-details-container a:hover {
+    text-decoration: underline;
+  }

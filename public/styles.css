@@ -1,0 +1,7 @@
+/* styles.css */
+body {
+    text-size-adjust: 100%; /* Standard property for text size adjustment */
+  }
+  .element {
+    text-align: match-parent; /* Ensure text alignment matches the parent */
+  }

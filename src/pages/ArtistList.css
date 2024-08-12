@@ -1,0 +1,24 @@
+.artist-list {
+    padding: 20px;
+  }
+  
+  .artist-item {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 10px;
+    margin-bottom: 10px;
+    background-color: #f9f9f9;
+  }
+  
+  .artist-item h3 {
+    margin-top: 0;
+  }
+  
+  .artist-item a {
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  .artist-item a:hover {
+    text-decoration: underline;
+  }

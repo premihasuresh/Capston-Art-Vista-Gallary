@@ -1,0 +1,23 @@
+.dashboard-item {
+  position: relative;
+  margin: 10px;
+}
+
+.dashboard-item-img {
+  width: 100%;
+  height: auto;
+}
+
+.dashboard-item-overlay {
+  position: absolute;
+  top: 0;
+  right: 0;
+  padding: 10px;
+}
+
+.heart-icon {
+  background: none;
+  border: none;
+  font-size: 24px;
+  cursor: pointer;
+}
